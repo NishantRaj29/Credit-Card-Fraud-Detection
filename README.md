@@ -1,4 +1,5 @@
-# Credit-Card-Fraud-Detection
+# FraudGuard: Intelligent Credit Card Fraud Detection
+
 
 We have design the system using Machine Learning with python for Credit Card Fraud Detection.Here we have used the Logistic Regression model.
 
